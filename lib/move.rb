@@ -8,5 +8,5 @@ end
 
 # code your input_to_index and move method here!
 input_to_index 5 .to_i
-display_board 
+display_board
 end
